@@ -8,7 +8,10 @@ editor_options:
   chunk_output_type: console
 ---
 
-Welcome to my research website.
+Welcome to my first workflowr website.
 
+I have performed an analysis using the data set ToothGrowth. It contains the length of the teeth for 60 guinea pigs given 3 different doses of vitamin C either via orange juice (OC) or directly with ascorbic acid (VC).
+
+I want to compare the tooth length of the guinea pigs given orange juice versus those given vitamin C, so I have performed a permutation-based statistical test. This involved comparing the observed difference in teeth length due to the supplement method to the observed differences calculated from random permutations of the data.
 
 [Analysis teeth](teeth.html)
